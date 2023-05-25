@@ -1,14 +1,10 @@
-{
+  {
     "applinks": {
-      "apps": [],
-      "details": [
+        "apps": [],
+        "details": [
         {
           "appID": "SUXQJ6S2JT.com.recipto.customerapp",
-          "components": [
-            {
-              "/": "*"
-            }
-          ]
+          "paths": ["*"]
         }
       ]
     }
